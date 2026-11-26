@@ -1,0 +1,4 @@
+bench_data/
+__pycache__/
+*.pkl
+report_*.html
