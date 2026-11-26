@@ -6,6 +6,8 @@ Ad libraries show the creative, the start date and whether the ad is still runni
 
 recut groups recuts into **variant families** by matching the footage itself. Within each family, the shots that differ are the hooks being tested. A censoring-aware survival estimate then ranks the hooks.
 
+**Visual report with example families and thumbnails: https://rajj28.github.io/recut/report.html**
+
 ## Results
 
 The benchmark has known ground truth, built from CC-BY Blender films (details below).
